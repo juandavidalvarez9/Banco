@@ -1,6 +1,6 @@
 # Banco APP
 
-> **Estado:** proyecto de 2020, sin mantenimiento. Se conserva como archivo.
+> Proyecto de 2020.
 
 Front-end de una aplicación de banco de ejemplo: consulta de saldo y autenticación de usuarios sobre una base de datos ficticia. Está construido con **Vue.js 2** y consume la API de [banco_api](https://github.com/juandavidalvarez9/banco_api).
 
