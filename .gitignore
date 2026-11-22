@@ -1,0 +1,14 @@
+# Dependencias (se instalan con `npm install`)
+node_modules/
+
+# Registros y configuración local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
