@@ -1,0 +1,14 @@
+# Dependencias y compilados
+node_modules/
+dist/
+
+# Configuración local
+.env
+.env.local
+
+# Registros, sistema y editores
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
